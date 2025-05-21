@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Run tests:
 
-    pytest
+    python3 -m pytest
 
 🧠 Class Features
 Customer
@@ -91,7 +91,7 @@ Order
 
     To run tests:
 
-    pytest
+    python3 -m pytest
 
 📦 requirements.txt
 
